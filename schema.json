@@ -532,6 +532,15 @@
       },
       {
         "type": "heading",
+        "content": "i18n.HeaderTopBar"
+      },
+      {
+        "type": "color",
+        "label": "i18n.HeaderTopBarBackgroundColor",
+        "id": "header-topBar-backgroundColor"
+      },
+      {
+        "type": "heading",
         "content": "i18n.Logo"
       },
       {

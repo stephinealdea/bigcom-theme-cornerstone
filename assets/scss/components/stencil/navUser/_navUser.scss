@@ -23,6 +23,7 @@
     top: 26px; // 2
     width: 100%; // 4
     z-index: zIndex("lowest"); // 5.
+    background-color: stencilColor("header-topBar-backgroundColor");
 
     @include breakpoint("medium") {
         padding: 0 spacing("single");

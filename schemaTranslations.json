@@ -6458,5 +6458,43 @@
     "ko": "Bolt",
     "pl": "Bolt",
     "ja": "Bolt"
+  },
+  "i18n.HeaderTopBar": {
+    "default": "Header Top Bar",
+    "fr": "Header Top Bar",
+    "it": "Header Top Bar",
+    "zh": "Header Top Bar",
+    "de": "Header Top Bar",
+    "es": "Header Top Bar",
+    "nl": "Header Top Bar",
+    "pt": "Header Top Bar",
+    "pt-BR": "Header Top Bar",
+    "sv": "Header Top Bar",
+    "es-MX": "Header Top Bar",
+    "es-419": "Header Top Bar",
+    "da": "Header Top Bar",
+    "no": "Header Top Bar",
+    "ko": "Header Top Bar",
+    "pl": "Header Top Bar",
+    "ja": "Header Top Bar"
+  },
+  "i18n.HeaderTopBarBackgroundColor": {
+    "default": "Header Top Bar Background Color",
+    "fr": "Header Top Bar Background Color",
+    "it": "Header Top Bar Background Color",
+    "zh": "Header Top Bar Background Color",
+    "de": "Header Top Bar Background Color",
+    "es": "Header Top Bar Background Color",
+    "nl": "Header Top Bar Background Color",
+    "pt": "Header Top Bar Background Color",
+    "pt-BR": "Header Top Bar Background Color",
+    "sv": "Header Top Bar Background Color",
+    "es-MX": "Header Top Bar Background Color",
+    "es-419": "Header Top Bar Background Color",
+    "da": "Header Top Bar Background Color",
+    "no": "Header Top Bar Background Color",
+    "ko": "Header Top Bar Background Color",
+    "pl": "Header Top Bar Background Color",
+    "ja": "Header Top Bar Background Color"
   }
 }
